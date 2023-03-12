@@ -1,3 +1,4 @@
 # virtual_draw
-Eğlenmek için yaptığım bir projeydi.
-Default olarak yeşil renk ayarlıdır fakat projedeki trackbar üzerinden ayarları değiştirebilirsiniz.
+This is a project that I have developed to fun.
+Default color is green but you can adjust drawing color in trackbar which is in project.
+
